@@ -20,3 +20,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishnakiriti04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+##  Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Gokul0201">
+</a>
+<a href="https://github.com/Gokul0201?tab=followers"><img src="https://img.shields.io/github/followers/HariprakashM?label=Followers&style=social" alt="GitHub Badge"></a>
